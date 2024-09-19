@@ -1,2 +1,2 @@
 # books2
-Road to learn Backend - chapter 2
+Road to become Backend Developer - chapter 2
